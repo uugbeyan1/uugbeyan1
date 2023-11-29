@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ufuoma! <br/><a href="https://github.com/ufuomaugbeyan1">General IT, </a><a href="https://www.linkedin.com/in/uugbeyan/">Software Engineer</a>
+<h1>Hi, I'm Ufuoma! <br/><a href="https://github.com/ufuomaugbeyan1"></a><a href="https://www.linkedin.com/in/uugbeyan/">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
