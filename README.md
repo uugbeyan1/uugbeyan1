@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/uugbeyan1/Active-Directory-Home-Lab/blob/main/README.md)
-  - [Automate Sending Daily Email Message](https://github.com/joshmadakor1/AD_PS)
+  - [Automate Sending Daily Email Message]()
 
 <h2>📺 Popular YouTube Videos</h2>
 How to get into Cybersecurity Starting From Zero (https://www.youtube.com/watch?v=a83ASGn_V_s)
