@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab]((https://github.com/uugbeyan1/Active-Directory-Home-Lab/blob/main/README.md)
+  - [Active Directory Home Lab](https://github.com/uugbeyan1/Active-Directory-Home-Lab/blob/main/README.md)
   - [Automate Sending Daily Email Message](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📺 Popular YouTube Videos</h2>
