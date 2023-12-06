@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/uugbeyan1/Active-Directory-Home-Lab/blob/main/README.md)
-  - [Automate Sending Daily Email Message]()
+  - [Daily Email Message Automation](https://github.com/uugbeyan1/Automate-Daily-Email-Message/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
